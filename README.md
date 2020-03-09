@@ -7,15 +7,14 @@
 - Custom character and enemy.
 
 # Resource:
-- Summon Night: Sword craft Story 2 character sprite sheet: Magna - Ripped by Vanarus: https://www.spriters-resource.com/game_boy_advance/snight2/sheet/20739/
-- Summon Night: Sword craft Story 2 character sprite sheet Slime - Ripped by Boo: https://www.spriters-resource.com/game_boy_advance/snight/sheet/10258/
-- Cat fighter sprite sheet by dog chicken: https://opengameart.org/content/cat-fighter-sprite-sheet
-- bump.js by kittyattack: https://github.com/kittykatattack/bump
+- Summon Night: Sword craft Story 2 character sprite sheet: Magna - Ripped by [Vanarus]https://www.spriters-resource.com/game_boy_advance/snight2/sheet/20739/)
+- Summon Night: Sword craft Story 2 character sprite sheet Slime - Ripped by [Boo](https://www.spriters-resource.com/game_boy_advance/snight/sheet/10258/)
+- Cat fighter sprite sheet by [dogchicken](https://opengameart.org/content/cat-fighter-sprite-sheet)
+- bump.js by [kittyattack](https://github.com/kittykatattack/bump)
 
 # Engine: 
-## RPGMaker MV 
+## [RPGMaker MV](https://www.rpgmakerweb.com/) 
 - Published by: Degica.
-- Website: https://www.rpgmakerweb.com/
 
 # Language: 
 - Javascript
