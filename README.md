@@ -2,7 +2,7 @@
 ## This is my repo for inprogress personal project AbyssRaider
 
 # Target:
-- Storyline about adventurer in world full of dungeons called [Abyss] 
+- Storyline about adventurer in a world full of dungeons called [Abyss] 
 - Standard RPG content with tile map
 - Custom linear battle system
 
