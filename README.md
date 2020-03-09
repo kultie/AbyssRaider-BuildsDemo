@@ -1,2 +1,34 @@
 # AbyssRaider-BuildsDemo
-Build repo for testing AbyssRaider Project
+## This is my repo for inprogress personal project AbyssRaider
+
+# Info:
+- Standard RPG content with tile map
+- Custom linear realtime battle system
+- Custom character and enemy.
+
+# Resource:
+- Summon Night: Sword craft Story 2 character sprite sheet: Magna - Ripped by Vanarus: https://www.spriters-resource.com/game_boy_advance/snight2/sheet/20739/
+- Summon Night: Sword craft Story 2 character sprite sheet Slime - Ripped by Boo: https://www.spriters-resource.com/game_boy_advance/snight/sheet/10258/
+- Cat fighter sprite sheet by dog chicken: https://opengameart.org/content/cat-fighter-sprite-sheet
+- bump.js by kittyattack: https://github.com/kittykatattack/bump
+
+# Engine: 
+## RPGMaker MV 
+- Published by: Degica.
+- Website: https://www.rpgmakerweb.com/
+
+# Language: 
+- Javascript
+
+# Changelog
+## Version 0.0.1:
+### 3/9/2020: Initial version
+- Add custom animation system
+- Add basic character controller
+- Add basic physic system
+- Add basic collision hit detection system with physic tag for hit box
+
+# TODO:
+- Create custom sprite system for battle effect
+- Implement core battle flow for battle sytem: battle start, battle end
+- Implement enemy AI with behaviour tree - translate from c# to javascript from [link](https://github.com/kultie/Unity-Behaviour-Tree)
