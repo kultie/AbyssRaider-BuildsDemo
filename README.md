@@ -20,7 +20,7 @@
 - Javascript
 
 # Changelog
-## Version 0.0.1:
+## [Version 0.0.1](https://github.com/kultie/AbyssRaider-BuildsDemo/releases/tag/0.0.1)
 ### 3/9/2020: Initial version
 - Add custom animation system
 - Add basic character controller
