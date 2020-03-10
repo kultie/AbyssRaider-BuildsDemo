@@ -6,11 +6,10 @@
 - Standard RPG content with tile map
 - Custom linear battle system
 
-# Resource:
-- Summon Night: Sword craft Story 2 character sprite sheet: Magna - Ripped by [Vanarus](https://www.spriters-resource.com/game_boy_advance/snight2/sheet/20739/)
-- Summon Night: Sword craft Story character sprite sheet Slime - Ripped by [Boo](https://www.spriters-resource.com/game_boy_advance/snight/sheet/10258/)
-- Cat fighter sprite sheet by [dogchicken](https://opengameart.org/content/cat-fighter-sprite-sheet)
-- bump.js by [kittyattack](https://github.com/kittykatattack/bump)
+# TODO:
+- Create custom sprite system for battle effect
+- Implement core battle flow for battle sytem: battle start, battle end
+- Implement enemy AI with behaviour tree - translate from c# to javascript by [me](https://github.com/kultie/Unity-Behaviour-Tree)
 
 # Engine: 
 ## [RPGMaker MV](https://www.rpgmakerweb.com/) 
@@ -27,7 +26,9 @@
 - Add basic physic system
 - Add basic collision hit detection system with physic tag for hit box
 
-# TODO:
-- Create custom sprite system for battle effect
-- Implement core battle flow for battle sytem: battle start, battle end
-- Implement enemy AI with behaviour tree - translate from c# to javascript by [me](https://github.com/kultie/Unity-Behaviour-Tree)
+# Resource:
+- Summon Night: Sword craft Story 2 character sprite sheet: Magna - Ripped by [Vanarus](https://www.spriters-resource.com/game_boy_advance/snight2/sheet/20739/)
+- Summon Night: Sword craft Story character sprite sheet Slime - Ripped by [Boo](https://www.spriters-resource.com/game_boy_advance/snight/sheet/10258/)
+- Cat fighter sprite sheet by [dogchicken](https://opengameart.org/content/cat-fighter-sprite-sheet)
+- bump.js by [kittyattack](https://github.com/kittykatattack/bump)
+- hit effect by [Sinestesia](https://opengameart.org/users/sinestesia)
